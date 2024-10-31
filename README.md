@@ -31,17 +31,6 @@ Installez ces bibliothèques en exécutant la commande suivante dans votre termi
 pip install numpy pandas matplotlib tensorflow
 Utilisation
 
-    Clonez le dépôt GitHub :
-
-    bash
-
-git clone <URL_DU_DÉPÔT>
-
-Accédez au répertoire du projet :
-
-bash
-
-    cd <NOM_DU_RÉPÔSITOIRE>
 
     Ouvrez le fichier reconaissanceMNIST.ipynb avec Jupyter Notebook pour explorer le code et exécuter les cellules du notebook.
 
@@ -63,4 +52,4 @@ Améliorations Possibles
 
 Auteur
 
-Ce projet a été réalisé par [Votre Nom].
+Ce projet a été réalisé par YASSER DERDOUM
